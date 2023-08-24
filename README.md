@@ -36,9 +36,9 @@ http://localhost:3000 ↗
 
 This provides a fully functioning offline-first text editor that can be used from any device when internet is available or not.
 
-[![`scrot1`](https://github.com/JessePomeroy/text-editor/blob/main/assets/scrot1.png)]
+[`scrot1`](https://github.com/JessePomeroy/text-editor/blob/main/assets/scrot1.png)
 
-[![`scrot2`](https://github.com/JessePomeroy/text-editor/blob/main/assets/scrot2.png)]
+[`scrot2`](https://github.com/JessePomeroy/text-editor/blob/main/assets/scrot2.png)
 
 
 The deployed application is hosted on Heroku at:
