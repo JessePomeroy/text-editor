@@ -20,15 +20,15 @@ To run it locally:
 
     Clone the repo:
 
-    ```git clone [repo link]`
+    ```git clone [repo link]```
 
     Install dependencies:
 
-    ```npm install`
+    ```npm install```
 
     Start the development server:
 
-    ```npm run start`
+    ```npm run start```
 
     View in browser at:
 
