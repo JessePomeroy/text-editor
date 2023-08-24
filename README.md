@@ -18,21 +18,21 @@ Using service workers and the Cache API enables a fully functional offline exper
 
 To run it locally:
 
-    Clone the repo:
+Clone the repo:
 
-    ```git clone [repo link]```
+```git clone [repo link]```
 
-    Install dependencies:
+Install dependencies:
 
-    ```npm install```
+```npm install```
 
-    Start the development server:
+Start the development server:
 
-    ```npm run start```
+```npm run start```
 
-    View in browser at:
+View in browser at:
 
-    http://localhost:3000 ↗
+http://localhost:3000 ↗
 
 This provides a fully functioning offline-first text editor that can be used from any device when internet is available or not.
 
